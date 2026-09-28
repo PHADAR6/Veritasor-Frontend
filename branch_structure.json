@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "wave/issue-632-json-tree-viewer-coverage"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "wave/issue-632-json-tree-viewer-coverage": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "wave/issue-632-json-tree-viewer-coverage"
+  ]
+}
